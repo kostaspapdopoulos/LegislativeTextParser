@@ -1,5 +1,9 @@
 # Legislative Text Parser
 
+> **Note:** This repository contains the code developed as part of our diploma thesis at the University of Ioannina.  
+> Originally hosted under the [DAINTINESS Group](https://github.com/DAINTINESS-Group) organization, this tool was co-developed by **Kostas Papadopoulos**, **Vasileios Ioannis Bouzampalidis**, and **Elias Papathanasiou** as a foundational component for our respective research pipelines.
+
+---
 **Legislative Text Parser** is a Java-based application designed to process legislative documents, extract key entities, and visualize the results in an intuitive graphical interface. This tool is particularly useful for legal experts, policymakers, and researchers working with legal texts.
 
 ---
@@ -71,20 +75,24 @@ Before running the application, ensure the following software is installed:
 - **Entity Visualizer**: Displays a list of extracted entities.
 - **Tree Visualizer**: Shows a hierarchical structure of the document.
 
-# Contact
+## 🧠 Acknowledgment
 
-For questions or support, please contact:
+This tool served as the first component of our diploma thesis pipeline, forming the foundation for subsequent tools and research work.  
+It represents the combined effort of three contributors and is shared publicly for academic reference and potential adaptation.
 
-* **Name**: Kostas Papadopoulos
-* **Email**: cs04761@uoi.gr
-* **GitHub**: https://github.com/KostPapadopoulos
--------------------------------------------------------
-* **Name**: Vasileios Ioannis Bouzampalidis
-* **Email**: cs04744@uoi.gr
-* **GitHub**: https://github.com/BouzampalidisVasileiosIoannis
--------------------------------------------------------
-* **Name**: Elias Papathanasiou
-* **Email**: cs04765@uoi.gr
-* **GitHub**: https://github.com/PapathanasiouElias
--------------------------------------------------------
+---
 
+## 📬 Contact
+
+For inquiries, collaborations, or academic references:
+
+| Name | Email | GitHub |
+|------|--------|--------|
+| **Kostas Papadopoulos** | konstantinos.d95@gmail.com | [@kostaspapadopoulos](https://github.com/kostaspapdopoulos) |
+---
+
+### 🏛️ Provenance
+
+Originally developed as part of the **"Diploma Thesis “A Software System for Automatically Encoding Legislative Rules in Checklists using OpenAI’s GPT-4o-mini."**  
+at the **Department of Computer Science & Engineering, University of Ioannina (Greece)**.  
+Supervised by **Dr. Panos Vasiliadis**.
